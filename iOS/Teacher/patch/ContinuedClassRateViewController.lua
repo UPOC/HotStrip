@@ -1,4 +1,4 @@
-waxClass{"ContinuedClassRateViewController", UTTableViewController}
+waxClass{"ContinuedClassRateViewController"}
 
 function testWax(self)
 
